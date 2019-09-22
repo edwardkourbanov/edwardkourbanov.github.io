@@ -8,11 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+Random image of Shrek:
+![Image of Shrek](https://vignette.wikia.nocookie.net/shrek-fanon/images/9/98/Shrek.png/revision/latest?cb=20180818135500)
+
 ```markdown
 **Personal GitHub Portfolio**
 
-Random image of Shrek:
-![Image of Shrek](https://vignette.wikia.nocookie.net/shrek-fanon/images/9/98/Shrek.png/revision/latest?cb=20180818135500)
+
 
 Format:
 [Link](url) and ![Image](src)
